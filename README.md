@@ -3,7 +3,7 @@
 Meu nome é Felipe Abreu
 
 - Estou estudando na Alura
-- Etou me desenvolvendo na linguagem Javascript
+- Estou me desenvolvendo na linguagem Javascript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
 - ### VOCÊ pode emtrar em contato comigo 📫
